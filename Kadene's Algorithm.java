@@ -1,5 +1,6 @@
 //KADENCE ALGORITHM
 //TIME COMPLEXITY: O(n) i.e. Linear time complexity
+//Code to find the maximum sum of subarray
 import java.util.*;
 public class Main
 {
